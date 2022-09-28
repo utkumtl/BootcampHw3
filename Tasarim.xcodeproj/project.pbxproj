@@ -26,8 +26,7 @@
 		3428F2C928E3969200DB73A0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3428F2CB28E3969200DB73A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3428F2D228E39E4A00DB73A0 /* Macondo-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Macondo-Regular.ttf"; sourceTree = "<group>"; };
-		34D5D77E28E48F5A00B35E5E /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/Main.strings; sourceTree = "<group>"; };
-		34D5D77F28E48F5B00B35E5E /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		34D5D78028E4953900B35E5E /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/Main.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -166,7 +165,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				3428F2C428E3968C00DB73A0 /* Base */,
-				34D5D77E28E48F5A00B35E5E /* tr */,
+				34D5D78028E4953900B35E5E /* tr */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -175,7 +174,6 @@
 			isa = PBXVariantGroup;
 			children = (
 				3428F2C928E3969200DB73A0 /* Base */,
-				34D5D77F28E48F5B00B35E5E /* tr */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
