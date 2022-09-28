@@ -14,7 +14,6 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var Kategori2: UIImageView!
     
-    
     @IBOutlet weak var Kategori3: UIImageView!
     
     override func viewDidLoad() {

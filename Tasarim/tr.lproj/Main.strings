@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Earthquake"; ObjectID = "95f-xe-pv5"; */
+"95f-xe-pv5.text" = "Deprem";
+
+/* Class = "UILabel"; text = "Agriculture"; ObjectID = "UQZ-ll-F80"; */
+"UQZ-ll-F80.text" = "Tarım";
+
+/* Class = "UILabel"; text = "Fire"; ObjectID = "Zq6-hf-0qH"; */
+"Zq6-hf-0qH.text" = "Yangın";
